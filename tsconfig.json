@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "noImplicitAny": false,
+      "noEmitOnError": true,
+      "removeComments": true,
+      "sourceMap": true,
+      "target": "ES2021",
+      "outDir": "dist/",
+      "moduleResolution":"node",
+      "module": "CommonJS",
+    },
+    "include": [
+      "src/**/*"
+    ]
+}
